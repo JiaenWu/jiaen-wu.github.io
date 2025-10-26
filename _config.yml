@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiaen Wu / Site Title"
+title                    : "Jiaen Wu Portfolio"  # Update this with the title of your site
 title_separator          : "-"
 name                     : &name "Jiaen Wu"
 description              : &description "Jiaen Wu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Jiaen Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Robotistics Postdoc at Stanford University. Interested in embodied AI, human-robot interaction, and reinforcement learning."
+  location         : "Stanford, CA"
   employer         : "Stanford University"
   uri              : # URL
   email            : "jiaenwu8@gmail.com" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
